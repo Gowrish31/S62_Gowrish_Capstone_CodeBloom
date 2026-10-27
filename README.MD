@@ -235,6 +235,6 @@ To ensure full transparency during technical evaluations, features are catalogue
 
 ## 🔗 Project References
 
-- **Frontend Deployment**: [https://s62-gowrish-capstone-code-bloom.vercel.app/](https://s62-gowrish-capstone-code-bloom.vercel.app/)
+- **Frontend Deployment**: [https://s62-gowrish-capstone-code-bloom-hhg.vercel.app/](https://s62-gowrish-capstone-code-bloom-hhg.vercel.app/)
 - **Backend Deployment**: [https://s62-gowrish-capstone-codebloom-1.onrender.com](https://s62-gowrish-capstone-codebloom-1.onrender.com)
 - **Figma Design Reference**: [CodeBloom Low-Fidelity Wireframes](https://www.figma.com/design/A58cTwM9PG5Cf1Bwn6ZNys/Capstone-lowfid?node-id=0-1&t=W61AZ7CD7pmpND7k-1)
